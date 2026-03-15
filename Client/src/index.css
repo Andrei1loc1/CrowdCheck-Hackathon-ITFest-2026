@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import "./styles/color.css";
+
+/* Leaflet popup custom styles */
+.leaflet-popup-content-wrapper {
+  background: #ffffff;
+  color: #333;
+  border-radius: 8px;
+}
+
+.leaflet-popup-tip {
+  background: #ffffff;
+}
+
+.leaflet-popup-content {
+  margin: 12px 16px;
+}
